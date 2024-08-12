@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background: #6943FF;
+    color: FFFFFF;
+    height: 285px;
+    width: 550px;
+    text-align: center;
+}
+
+#num {
+    border: 1px solid #B295FF;
+    border-radius: 5px;
+    background: #6943FF;
+    height: 83px;
+    width: 117px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}

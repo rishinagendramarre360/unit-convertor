@@ -79,14 +79,25 @@ section {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    
 }
 
 h3 {
     margin-top: 0;
-    padding: 25px;
+    margin-bottom: 0;
+    padding-top: 25px;
+    padding-bottom: 13px;
     color: #5A537B;
     font-weight: 600;
     line-height: 20px;
     font-size: 20px;
+}
+
+p{
+    color: #353535;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 0;
 }
 
